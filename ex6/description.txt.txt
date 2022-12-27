@@ -1,0 +1,28 @@
+החלוקה לפונקציות התבצעה באופן הבא:
+
+* run_entry_menu
+run_file_chane_menu
+run_finish_menu
+אלו פונקציות שמריצות את כל התפריטים בתכנית.
+
+* get_wav_file
+זו הפונקציה שקוראת לפונקציה load_wave.
+
+*change_wav_file
+change_audio_data
+execute_audio_deprivation
+execute_speed_acceleration
+execute_speed_deceleration
+execute_volume_amplification
+execute_volume_lowering
+execute_low_pass_filter
+אלו כל הפונקציות שאחראיות על שינוי קובץ ה-wav.
+
+* read_txt_file
+זו הפונקציה שקוראת את קובץ ההנחיות.
+
+* create_audio_data
+זו הפונקציה העיקרית שאחראית להלחנה.
+
+* main
+הפונקציה שקוראת לכל הפונקציות בתכנית באופן ישיר או עקיף.
